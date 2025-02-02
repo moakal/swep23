@@ -1,4 +1,4 @@
-# Name TBC
+# TailSync
 
 Group (23) project for ECS506U at Queen Mary University of London.
 
@@ -12,12 +12,12 @@ The app should enable minders to track their pets during walks or other activiti
 
 | Name | Username | Email |
 |---|---|---|
-Angela Acharya Lopez   | ang3la-a |   <a.acharyalopez@se23.qmul.ac.uk>
-Jia Wen Lim            | jiawen03 |          <j.w.lim@se23.qmul.ac.uk> 
-Lorenzo Caprio         | LoriCaprio |        <l.caprio@se23.qmul.ac.uk>
-Mateus Franco E Cunha  | mmateus-fc |        <m.francoecunha@se23.qmul.ac.uk>
-Mohammed Akbar Ali     | moakal |            <m.ali@se23.qmul.ac.uk> 
-Zubayer Yamin Sharif   | zubayer04 |   <z.y.sharif@se23.qmul.ac.uk>
+Angela Acharya Lopez | ang3la-a | <a.acharyalopez@se23.qmul.ac.uk>
+Jia Wen Lim | jiawen03 | <j.w.lim@se23.qmul.ac.uk> 
+Lorenzo Caprio | LoriCaprio | <l.caprio@se23.qmul.ac.uk>
+Mateus Franco E Cunha | mmateus-fc | <m.francoecunha@se23.qmul.ac.uk>
+Mohammed Akbar Ali | moakal | <m.ali@se23.qmul.ac.uk> 
+Zubayer Yamin Sharif | zubayer04 | <z.y.sharif@se23.qmul.ac.uk>
 
 ## Timeline
 
